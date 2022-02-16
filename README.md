@@ -5,12 +5,13 @@ This is a PyTorch implementation of our paper. We introduce matting as a soft se
 
 ## Reference
 ```
-@InProceedings{10.1007/978-3-030-87199-4_54,
-author="Wang, Lin and Ju, Lie and Zhang, Donghao and Wang, Xin and He, Wanji and Huang, Yelin and Yang, Zhiwen and Yao, Xuan and Zhao, Xin and Ye, Xiufen and Ge, Zongyuan",
-title="Medical Matting: A New Perspective on Medical Segmentation with Uncertainty",
-booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021",
-year="2021",
-pages="573--583",
+@inproceedings{wang2021medical,
+  title={Medical matting: a new perspective on medical segmentation with uncertainty},
+  author={Wang, Lin and Ju, Lie and Zhang, Donghao and Wang, Xin and He, Wanji and Huang, Yelin and Yang, Zhiwen and Yao, Xuan and Zhao, Xin and Ye, Xiufen and others},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={573--583},
+  year={2021},
+  organization={Springer}
 }
 ```
 A jounal extension version can be achieved at [arxiv](https://arxiv.org/abs/2106.09887v3).
